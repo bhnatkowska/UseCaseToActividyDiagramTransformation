@@ -4,7 +4,7 @@ The plugin requires a manual installation:
 2. Goto Help/Install Plugin
 3. Select the option: Manually copy the plugin folder(s) to the following directory
 4. Copy the path
-5. Unzip the content of the UseCaseToActivityDiagramTransformation file into the path
+5. Unzip the content of the plugin-thesis.zip file into the path
 6. Restart the Visual Paradigm
 
 Test.vpp - an exemplary Visual Paradigm project with the plug-in test cases
